@@ -1,4 +1,4 @@
 StarterYii
 ==========
 
-An attempt for simpler yii starter packs
+An attempt on yii starter packs
